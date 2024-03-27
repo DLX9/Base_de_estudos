@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        div{
+            background-color: rgb(66, 215, 215);
+            border: 10px solid pink;
+            width: 300px;
+            height: 300px;
+            margin: 50px;
+            float: left;
+        }
+        
+        div .colored{
+            background-color: rgb(37, 111, 221);
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <button id="rodar"> play </button>
+
+    <br>
+
+    <div> </div>
+
+    <div id="mover"></div>
+
+    <div> </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+
+        $("#rodar").click(function(){
+            $("div:animated").toggleClass("colored");
+        });
+
+        function animated(){
+            $("#mover").slideToggle("slow", animated)
+        };
+        
+        animated()
+
+    </script>
+    
+</body>
+</html>

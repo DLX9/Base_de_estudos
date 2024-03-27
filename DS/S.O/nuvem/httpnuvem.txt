@@ -1,0 +1,13 @@
+module.exports = async function (context, req) {
+    context.log('JavaScript HTTP trigger function processed a request.');
+
+    const name = (req.query.name || (req.body && req.body.name));
+    const responseMessage = name
+        ? "Olá, " + name + ". Hoje não está um beelo dia para uma partida de league of legends?"
+        : "Ta funcionando legal po :).";
+
+    context.res = {
+        // status: 200, /* Defaults to 200 */
+        body: responseMessage
+    };
+}

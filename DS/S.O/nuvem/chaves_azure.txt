@@ -1,0 +1,14 @@
+comp-vision 
+chave 1 1811324ae08042e0ba9f57a43fcb3f71
+	    
+chave 2 d4da86341bed4c2d9bf6bc252747908f
+
+ponto de extremidade
+
+https://compvision0001.cognitiveservices.azure.com/
+
+armazenamento
+
+cadeia de ligação
+
+DefaultEndpointsProtocol=https;AccountName=devsistemas01;AccountKey=u540j/oexqdrUNRZsE+w37TxhfF7R8Bog3bJtTunnx3EKCNOTBnGxVc9tvUWDVhEsAKsaX3wUWQw+AStna9YpA==;EndpointSuffix=core.windows.net

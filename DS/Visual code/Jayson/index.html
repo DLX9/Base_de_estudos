@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+          $("h1").click(function(){
+            $(this).hide();
+          });
+        });
+
+        $(document).ready(function(){
+          $("h2").dblclick(function(){
+            $(this).hide();
+          });
+        });
+
+        $(document).ready(function(){
+          $("h3").hover(function(){
+            $(this).hide();
+          });
+        });
+
+        $(document).ready(function(){
+          $("input").focus(function(){
+            $(this).css("background-color", "rgb(147, 255, 222)");
+          });
+        $("input").blur(function(){
+         $(this).css("background-color", "rgb(78, 140, 247)");
+          });
+        });
+
+        $(document).ready(function(){
+        $("p").on("click", function(){
+          $(this).hide();
+          });
+        });
+
+        $(document).ready(function(){
+        $("#enter").mouseenter(function(){
+          alert("Roi turubom?");
+          });
+        });
+        
+        $(document).ready(function(){
+        $("#leave").mouseleave(function(){
+          alert("Adeus amigo");
+          });
+        });
+
+        $(document).ready(function(){
+        $("#leave").mouseleave(function(){
+          alert("Valeu, falou");
+          });
+        });
+
+        $(document).ready(function(){
+        $("#up").mouseup(function(){
+          alert("Segura mais na próxima");
+          });
+        });
+        </script>
+
+</head>
+<body class="meio">
+
+  <div class="distancia">
+    <h1>Clique e eu desapareço</h1>	
+  </div>
+  
+
+  <div class="distancia">
+    <h2>De dois cliques e eu sumo</h2>
+  </div>
+
+
+  <div class="distancia">
+    <h3>Quando passa por cima de mim eu sumo!!</h3>
+  </div>
+
+
+  <div class="distancia">
+    <label for="">Escreva algo</label>
+    <br>
+    <input type="text">
+  </div>
+
+  <div class="distancia">
+    <p>Clique em mim e eu sumo</p>
+    <p>Eu também sumo</p>
+    <p>Ixi rapa eu também</p>
+  </div>
+
+  <div class="distancia">
+    <p id="enter">Passe o mouse por mim</p>
+  </div>
+
+  <div class="distancia">
+    <p id="leave"> Passe o mouse por cima de mim e tire</p>
+  </div>
+
+  <div class="distancia">
+    <p id="down"> Clique rapido </p>
+  </div>
+
+  <div class="distancia">
+    <p id="up"> Clica e segura </p>
+  </div>
+
+</body>
+</html>
