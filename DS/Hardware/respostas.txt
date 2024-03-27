@@ -1,0 +1,53 @@
+1.Faça uma pesquisa sobre os temas “Comércio Eletrônico, Banco Eletrônico e Governo Eletrônico” na internet e exponha suas descobertas abaixo sobre “Interoperabilidade”.
+(5 Pontos)
+Interoperabilidade é a capacidade de vários sistemas trocarem informações entre si, utiliza de recursos como interconectividade para trocar informações, serviços de mensagem instantâneas para troca de informações, telefonia e acesso remoto para poder acessar de qualquer lugar.
+
+2.Realize uma pesquisa para entender como funcionam os buscadores na Internet, - também chamados de motores de pesquisa ou ferramentas de busca, em inglês search engine, como por exemplo o Google, o Bing, o Yahoo, o Baidoo e muitos outros. Exponha suas descobertas abaixo referente à "ferramentas de busca".
+(5 Pontos)
+Os buscadores da internet funcionam com pequenos programas chamados spiders que buscam palavras chaves que você digita na barra de pesquisa.
+
+3.Faça uma pesquisa sobre a computação na nuvem (ou cloud computing) e exponha suas descobertas “Computação na Nuvem”.
+(5 Pontos)
+O serviço de computação da nuvem é utilizado para guardar dados sem que ocupe espaço em seu computador, existem na internet vários serviços como o googledrive ou onedrive 
+
+4.Qual o objetivo do projeto SETI ou PANOSETI?
+(5 Pontos)
+O projeto SETI é um projeto que procura ondas de radio do espaço na esperança de achar vida extra terrestre. 
+
+5.Qual a diferença entre Proxy, Firewall, Switch e Roteador? Qual a importância deles na rede?
+(10 Pontos)
+singed faz no lol, phoenix do valorant faz, switch é um emulador e roteador eu tenho na sala
+
+6.Qual a diferença entre Wi-Fi e Wireless?
+(5 Pontos)
+Wifi emite um sinal para que a internet seja acessada dentro de uma certa área e permite que várias pessoas acessem, diferente da Wiriless que é uma rede cabeada, é necessário um cabo para conectar em cada usuário
+
+7.Após uma pesquisa e compartilhamento com os colegas, comente abaixo sobre os órgãos que que regulam a Internet no brasil e no mundo?
+(10 Pontos)
+Comitê Gestor da Internet no Brasil (CGI.br) é uma estrutura multissetorial responsável por coordenar e integrar as iniciativas relacionadas ao uso e funcionamento da Internet no Brasil. Já a união internacional de telecomunicação localizada na ONU é a responsável por organizar as operações de internet do mundo.
+
+8.Como surgiu a internet?
+(5 Pontos)
+Chamada de Arpanet, foi criada em 1969 nos E.U.A. para conectar os laboratórios de pesquisa.
+
+9.Escolha 3 dessas tecnologias de redes menos utilizadas, Relay, xDSL, HDLC, FDDI, PPP, DLNA, MHL e NFC, e comente sobre a aplicação e importância.
+(5 Pontos)
+O mhl é utilizado para conectar aparelhos móveis em dispositivos de HD como por exemplo a conexão que existe do youtube mobile para uma tv. O DLNA utiliza da rede wifi para interligar aparelhos da casa e assim controla-los. O nfc é um sistema de comunicação sem fio com uma distância máxima de 10cm.
+
+10.Realize uma pesquisa sobre os diferentes tipos de topologias de redes e faça uma imagem com todas as topologias mencionadas no material da atividade. (Pergunta não anônima
+
+)
+(10 Pontos)
+Limite de número de arquivos: 1Limite de tamanho de arquivo único: 10MBTipos de arquivo permitidos: Word, Excel, PPT, PDF, Imagem, Vídeo, Áudio
+
+11.O que são as redes de computadores?
+(5 Pontos)
+Conjunto de alguns dispositivos eletrônicos e computadorizados interligados que seguem um conjunto de regras para trocar informações entre si 
+
+12.Para que servem as redes de computadores? Onde são usadas?
+(5 Pontos)
+As redes de computadores servem para compartilhamento de arquivos, acesso e utilização de aplicativos, compartilhar hardware, comunicação, até mesmo jogos, computadores, servidores e celulares são exemplos de onde são usadas essas redes de computadores.
+
+13.Quais os principais tipos de redes de computadores?Leitura Avançada
+(5 Pontos)
+Os principais são: LAN, MAN, WAN, WLAN, WMAN, WWAN, SAN, PAN

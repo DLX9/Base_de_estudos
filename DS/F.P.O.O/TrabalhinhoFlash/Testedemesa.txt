@@ -1,0 +1,14 @@
+TESTE DE MESA
+
+	n1	n2	n3	result
+1	?	?	?	?
+E2	[N1]	?	?	?
+E3	N1	[N2]	?	?
+E4	N1	N2	[N3]	?
+P5	N1	N2	N3	result
+S6	N1	N2	N3	{result}
+
+Feito por: 
+Leonardo M. de Oliveira
+Pedro S. Gaste
+Vitor B. Fogar

@@ -1,0 +1,50 @@
+import java.util.Scanner;
+
+
+
+class Main {
+    public static void main(String[] args){
+
+        char opzinho;
+        Double num1, num2, resu;
+        Scanner input = new Scanner (System.in);
+
+        System.out.println("Escreva a operacao desejada.");
+         opzinho = input.next().charAt(0);
+    
+        System.out.println("Digite o primeiro numero.");
+        num1 = input.nextDouble();
+    
+        System.out.println("Digite o segundo numero.");
+        num2 = input.nextDouble();
+
+        switch (opzinho){
+        
+            case '+':
+                resu = num1 + num2;
+                System.out.println ( num1 + "+" + num2 + "=" + resu);
+                break;
+            
+            case '-':
+                resu = num1 - num2;
+                System.out.println ( num1 + "-" + num2 + "=" + resu);
+                break;
+            
+            case '*':
+                resu = num1 * num2;
+                System.out.println ( num1 + "+" + num2 + "=" + resu);
+                break;
+            
+            case '/':
+                resu = num1 / num2;
+                System.out.println ( num1 + "+" + num2 + "=" + resu);
+                break;
+                
+                default:
+                System.out.println("Invalid operator!");
+         }
+        input.close();
+    }
+}
+
+ 
